@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Treechcer! 👋
 
-<!--
-**Treechcer/Treechcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student from Czech with a passion for programming and software development. Currently, I'm focused on projects in Java, C++ and Python, and I'm exploring the basics of game programming.
 
-Here are some ideas to get you started:
+### 💼 What I Do
+- 👨‍💻 Studying IT and working on projects primarily in **Java** and **Python**
+- 🎮 Developing simple 2D games using the **Pygame** (and other) librarie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technologies
+- **Languages**: Java, Python
+- **Tools and Frameworks**: Git, Pygame
+- **Interests**: Game development, algorithms, and problem-solving
+
+### 📫 Connect with Me
+- [GitHub](https://github.com/Treechcer)
