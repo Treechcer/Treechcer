@@ -4,7 +4,7 @@ I'm an IT student from Czech with a passion for programming and software develop
 
 ### 💼 What I Do
 - 👨‍💻 Studying IT and working on projects primarily in **Java** and **Python**
-- 🎮 Developing simple 2D games using the **Pygame** (and other) librarie
+- 🎮 Developing simple 2D games using the **Pygame** (and other) libraries
 
 ### 🛠 Technologies
 - **Languages**: Java, Python
