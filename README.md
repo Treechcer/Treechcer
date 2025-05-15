@@ -14,3 +14,4 @@ I'm an IT student from Czech with a passion for programming and software develop
 ### 📫 Connect with Me
 - [GitHub](https://github.com/Treechcer)
 - [BlueSky](https://bsky.app/profile/treechcer.bsky.social)
+- [Email](treechcer@gmail.com)
