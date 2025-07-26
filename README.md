@@ -14,5 +14,5 @@ I'm an IT student from Czech with a passion for programming and software develop
 ### 📫 Connect with Me
 - [BlueSky](https://bsky.app/profile/treechcer.bsky.social)
 - [Twitter](https://x.com/Treechcer)
-- [Instagram](https://www.instagram.com/treechcer/)
+- [Instagram](https://www.instagram.com/treechcer_/)
 - email: treechcer@gmail.com
