@@ -7,7 +7,7 @@ I'm an IT student from Czech with a passion for programming and software develop
 - 🎮 Developing simple 2D games using the **Pygame**, **LÖVE2D** (and other) libraries
 
 ### 🛠 Technologies
-- **Languages**: Python, Lua, JS (+ HTML + CSS)
+- **Languages**: Python, Lua, PowerShell, Bash, JS (+ HTML + CSS)
 - **Tools and Frameworks**: Git, [Pygame](https://www.pygame.org/docs/), [LÖVE2D](https://love2d.org)
 - **Interests**: Game development, algorithms, and problem-solving
 
