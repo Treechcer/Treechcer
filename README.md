@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Treechcer
 
-<!--
-**Treechcer/Treechcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student from the Czech Republic, currently focusing on **C++**, **Lua**, and **software** and **game development**.  
+I enjoy creating small games in **[LÖVE2D](https://love2d.org)**, or algorithms and small apps / scripts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use
+- **Languages:** C++, Lua, PowerShell / Bash
+- **Frameworks / Tools:** LÖVE2D, Git, VS Code / NVim
+- **Main Focus / Learning:** game design, algorythms and scripting
+
+---
+
+### Projects
+- [**GUST**](https://github.com/Treechcer/GUST) -> PowerShell script for GitHub workflow with integrated modding etc.
+- [**Raycasting minigame**](https://github.com/Treechcer/raycasting-minigame) -> Small game made in LÖVE2D
+  
+---
+
+### Find me
+- GitHub: [Treechcer](https://github.com/Treechcer)
+- BlueSky: [Treechcer](https://bsky.app/profile/treechcer.bsky.social)
+- Twitter / X: [Treechcer](https://x.com/notifications)
+- Instagram: [Treechcer_](https://www.instagram.com/treechcer_/)
+- treechcer@gmail.com
