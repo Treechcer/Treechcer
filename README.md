@@ -8,7 +8,7 @@ I enjoy creating small games in **[LÖVE2D](https://love2d.org)**, or algorithms
 ### Tech I use
 - **Languages:** C++, Lua, PowerShell / Bash
 - **Frameworks / Tools:** LÖVE2D, Git, VS Code / NVim
-- **Main Focus / Learning:** game design, algorythms and scripting
+- **Main Focus / Learning:** game design, algorithms and scripting
 
 ---
 
